@@ -1,0 +1,11 @@
+Differences between NLTK and Spacy :
+i)Purpose and Design: Most of the times NLTK will be focused more on Research, Academic and Educational sectors and Spacy is designed with a focus on efficiency and production use.
+ii) Performance: NLTK is slower than Spacy which can be a drawback for large-scale or real-time processing tasks. Whereas spaCy is optimized for high performance, making it much faster than NLTK. It’s designed to handle large volumes of text data efficiently.
+iii)Features and Capabilities: NLTK provides tools for almost every NLP task and It is rich in Educational Resources. spaCy includes pre-trained models for a variety of languages and spaCy integrates well with deep learning frameworks like TensorFlow and PyTorch, which is advantageous for modern NLP tasks.
+Ease of Use: Due to its flexibility and range of options, NLTK can be more complex to use, especially for beginners. Whereas spacy is User-Friendly and it has a more straightforward API and is easier to get started with, especially for common NLP tasks.
+Community and Ecosystem: NLTK has been around longer, with a larger number of academic users and more extensive resources. Whereas spaCy has a rapidly growing community, especially in industry, and it benefits from regular updates and new features.
+Summary: 
+Use NLTK if: You need a comprehensive, flexible toolkit for detailed NLP tasks, research, or learning.
+Use spaCy if: You need a fast, production-ready solution with pre-trained models and an easy-to-use API for common NLP tasks.
+Important Note : Each library has its strengths, so the choice between them depends on the specific needs of your project.
+
